@@ -14,4 +14,4 @@
 /src/.idea
 /src/.vscode
 /mysql/*
-/.DS_Store
+.DS_Store
