@@ -1,8 +1,14 @@
-# Car sharing app
-Stack:
-    - Svelte,
-    - Laravel,
-    - NGINX,
-    - MySql,
-## Dev commands:
-`docker-compose exec /var/www/html/artisan migrate` - make migrations
+# Car renting app
+Stack used:
+ - Svelte
+ - Laravel
+ - Nginx
+ - MySql
+
+Everything runs in docker runtime.
+
+## Dev commands
+
+    docker-compose exec /var/www/html/artisan migrate
+ run migrations
+
